@@ -8,3 +8,12 @@ ______           __                          ___  ___  ___ ______
 
 
 ```
+
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-MAD&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Professor-MAD&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-MAD&layout=compact&theme=radical" />
+</p>
