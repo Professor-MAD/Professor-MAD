@@ -38,9 +38,9 @@ ______           __        .                 ___  ___  ___ ______      +        
 ```
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="manamind-vid.gif" width="250" style="margin: 8px;" />
-  <img src="mad-demo.gif" width="250" style="margin: 8px;" />
-  <img src="satan-vid.gif" width="250" style="margin: 8px;" />
+  <img src="manamind-vid.gif" width="300" style="margin: 8px;" />
+  <img src="mad-demo.gif" width="300" style="margin: 8px;" />
+  <img src="satan-vid.gif" width="300" style="margin: 8px;" />
 </div>
 
 ![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical)
