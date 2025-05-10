@@ -6,29 +6,28 @@ ______           __                          ___  ___  ___ ______
 | |  | | | (_) | ||  __/\__ \__ \ (_) | |    | |  | || | | | |/ /
 \_|  |_|  \___/|_| \___||___/___/\___/|_|    \_|  |_/\_| |_/___/
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <pre>
-        __.....__                                ___..._                                   n
-     .'" _  o    "`.                        _,--'       "`-.                              / `\
-   .' O (_)     () o`.                   ,'.  .            \                             (___:)
-  .           O       .               ,/:. .     .       .'                                """"
- . ()   o__...__    O  .             |;..  .      _..--'                                   ||
-. _.--"""       """--._ .            `--:...-,-'""\                                        ||
-:"                     ";                   |:.  `.                                        ))
- `-.__    :   :    __.-'                    l;.   l                                       //
-      """-:   :-"""                         `|:.   |                                      ((
-         J     L                             |:.   `.,                                     \\
-         :     :                             .l;.    j, ,                                   ))
-        J       L                         `. \`;:.   //,/                                   ||
-        :       :                          .\\)`;,|\'/(
-        `._____.'                           ` `      ` ``
+
+        __.....__                         ___..._
+     .'" _  o    "`.                 _,--'       "`-.
+   .' O (_)     () o`.            ,'.  .            \
+  .           O       .        ,/:. .     .       .'
+ . ()   o__...__    O  .      |;..  .      _..--'
+. _.--"""       """--._ .     `--:...-,-'""\
+:"                     ";            |:.  `.
+ `-.__    :   :    __.-'             l;.   l
+      """-:   :-"""                  `|:.   |
+         J     L                      |:.   `.,
+         :     :                      .l;.    j, ,
+        J       L                  `. \`;:.   //,/
+        :       :                   .\\)`;,|\'/(
+        `._____.'                    ` `      ` ``
 
 ```
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="manamind-vid.gif" width="200" style="margin: 8px;" />
-  <img src="mad-demo.gif" width="200" style="margin: 8px;" />
-  <img src="satan-vid.gif" width="200" style="margin: 8px;" />
+  <img src="manamind-vid.gif" width="230" style="margin: 8px;" />
+  <img src="mad-demo.gif" width="230" style="margin: 8px;" />
+  <img src="satan-vid.gif" width="230" style="margin: 8px;" />
 </div>
 
 ![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical)
