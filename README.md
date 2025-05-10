@@ -9,11 +9,20 @@ ______           __                          ___  ___  ___ ______
 
 ```
 
-<p align="center">
-  <img src="manamind-vid.gif" width="600" />
-  <img src="mad-demo.gif" width="600" />
-  <img src="satan-vid.gif" width="600" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(min-width: 768px)" srcset="manamind-vid.gif">
+    <img src="manamind-vid.gif" width="100%" />
+  </picture>
+  <picture>
+    <source media="(min-width: 768px)" srcset="mad-demo.gif">
+    <img src="mad-demo.gif" width="100%" />
+  </picture>
+  <picture>
+    <source media="(min-width: 768px)" srcset="satan-vid.gif">
+    <img src="satan-vid.gif" width="100%" />
+  </picture>
+</div>
 
 ![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-MAD&layout=compact&theme=radical)
