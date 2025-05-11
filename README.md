@@ -43,6 +43,7 @@ ______           __        .                 ___  ___  ___ ______      +        
   <img src="satan-vid.gif" width="250" style="margin: 8px;" />
 </div>
 
-![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical)
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-MAD&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Professor-MAD&theme=radical)
