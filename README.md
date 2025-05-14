@@ -46,4 +46,4 @@ ______           __        .                 ___  ___  ___ ______      +        
 ![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-MAD&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Professor-MAD&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Professor-MAD&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
