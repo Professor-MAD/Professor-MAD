@@ -45,5 +45,6 @@ ______           __        .                 ___  ___  ___ ______      +        
 
 <!-- ![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Professor-MAD&show_icons=true&theme=radical&count_private=true) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Professor-MAD&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Professor-MAD&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-MAD&layout=compact&theme=radical)
