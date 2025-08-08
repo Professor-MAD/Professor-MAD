@@ -48,4 +48,3 @@ ______           __        .                 ___  ___  ___ ______      +        
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Professor-MAD&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ![Top Languages](https://github-readme-stats-academic.vercel.app/api/top-langs/?username=Professor-MAD&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=radical)
-
